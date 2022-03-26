@@ -1,0 +1,1 @@
+This is a text to speech converter I built. To use this, enter the text you want to convert in the "text.txt" file. and then run the program. An audio file will appear in the folder automatically.
